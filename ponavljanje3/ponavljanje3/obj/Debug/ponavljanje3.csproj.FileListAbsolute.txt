@@ -1,0 +1,7 @@
+C:\Users\denim\source\repos\ponavljanje3\ponavljanje3\bin\Debug\ponavljanje3.exe.config
+C:\Users\denim\source\repos\ponavljanje3\ponavljanje3\bin\Debug\ponavljanje3.exe
+C:\Users\denim\source\repos\ponavljanje3\ponavljanje3\bin\Debug\ponavljanje3.pdb
+C:\Users\denim\source\repos\ponavljanje3\ponavljanje3\obj\Debug\ponavljanje3.csprojAssemblyReference.cache
+C:\Users\denim\source\repos\ponavljanje3\ponavljanje3\obj\Debug\ponavljanje3.csproj.CoreCompileInputs.cache
+C:\Users\denim\source\repos\ponavljanje3\ponavljanje3\obj\Debug\ponavljanje3.exe
+C:\Users\denim\source\repos\ponavljanje3\ponavljanje3\obj\Debug\ponavljanje3.pdb
